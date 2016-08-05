@@ -6,3 +6,7 @@
 #banner img {
   max-width: 100%;
 }
+/* Padding added to body tag to reduce white space betwee banner and navbar */
+body {
+  padding-top: 50px;
+}
