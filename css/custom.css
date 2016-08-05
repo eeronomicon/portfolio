@@ -1,0 +1,8 @@
+/* An example of CSS for ID and its cascaded img selector */
+/* Style for #banner uses the box model to add top margin */
+#banner {
+  margin-top: 20px;
+}
+#banner img {
+  max-width: 100%;
+}
