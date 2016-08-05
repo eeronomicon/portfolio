@@ -31,7 +31,7 @@ As mentioned above, this project will be published as a GitHub page [here](https
 
 ## Technologies Used
 
-This project uses HTML, CSS, and Bootstrap.
+This project uses HTML, CSS, Bootstrap, and Javascript.
 
 
 ### License
