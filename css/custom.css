@@ -1,12 +1,18 @@
 /* An example of CSS for ID and its cascaded img selector */
-/* Style for #banner uses the box model to add top margin */
-#banner {
+/* Uses the box model to add top margin to content sections */
+#banner, #projects {
   margin-top: 20px;
 }
 #banner img {
   max-width: 100%;
 }
-/* Padding added to body tag to reduce white space betwee banner and navbar */
+/* Additional styling for the navbar */
+#mynavbar {
+  border-style: solid;
+  border-width: 0px 0px 5px 0px;
+  border-color: #666;
+}
+/* Padding added to reduce white space betwee banner and navbar */
 body {
   padding-top: 50px;
 }
