@@ -12,7 +12,17 @@
   border-width: 0px 0px 5px 0px;
   border-color: #666;
 }
+/* Styling specifically for the image in the Addendum section */
+#addendumdedum img {
+  max-width: 30%;
+  float: right;
+}
+/* Styling to float Addendum paragraph to the left */
+#addendumdedum p {
+  max-width: 60%;
+  float: left;
+}
 /* Padding added to reduce white space betwee banner and navbar */
 body {
-  padding-top: 50px;
+  padding: 50px 0px 50px 0px;
 }
