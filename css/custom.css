@@ -1,6 +1,6 @@
 /* An example of CSS for ID and its cascaded img selector */
-/* Uses the box model to add top margin to content sections */
-#banner, #projects {
+/* Uses the box model to add top margin to banner section */
+#banner {
   margin-top: 20px;
 }
 #banner img {
